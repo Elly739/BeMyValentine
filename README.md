@@ -20,8 +20,8 @@ This is the ultimate Valentine experience — hearts, sparkles, confetti, and do
 
 ## Screenshots / GIF
 
-![Example Screenshot](screenshot.png)  
-*(Optional: add a GIF of the app in action here!)*  
+![Example Screenshot](<img width="1202" height="638" alt="Screenshot 2026-02-04 142011" src="https://github.com/user-attachments/assets/10e53477-a863-430f-86c0-59ed00bee2ff" />
+)  
 
 ---
 
@@ -29,7 +29,7 @@ This is the ultimate Valentine experience — hearts, sparkles, confetti, and do
 
 ### Option 1: Run from Python
 ```bash
-git clone https://github.com/YourUsername/BeMyValentine.git
+git clone https://github.com/Elly739/BeMyValentine.git
 cd BeMyValentine
 Option 2: Run the Executable
 pip install pyinstaller
