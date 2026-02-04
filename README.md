@@ -2,16 +2,16 @@
 
 **Interactive, magical, and cinematic Valentine app in Python!**  
 
-This is the ultimate Valentine experience — hearts, sparkles, confetti, and dodging buttons all in one fun Python app. Perfect for surprising someone special! ✨💖
+This is the ultimate Valentine experience — hearts, sparkles, confetti, and dodging buttons all in one fun Python app. Perfect for surprising someone special!💖
 
 ---
 
 ## Features
 - 💖 Pulsing **Yes** button  
 - 🚫 Dodging **No** button  
-- 🌟 Floating hearts and sparkles  
-- 🎉 Colorful confetti + random heart fireworks  
-- 🖱️ Mouse heart trail  
+-    Floating hearts and sparkles  
+-    Colorful confetti + random heart fireworks  
+-    Mouse heart trail  
 - 🔊 Plays a chime sound on start  
 - 🖥️ Full-screen immersive experience  
 - 💌 Surprise popup after clicking Yes  
